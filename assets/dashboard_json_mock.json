@@ -1,0 +1,312 @@
+{
+  "known_lemposes": {
+    "assumed": 3919,
+    "tracked": 9
+  },
+  "lemposes_to_next_level": 2541,
+  "current_skill_completion": 60.72035863348276,
+  "learning_progress_weekly": [
+    {
+      "interval": {
+        "weeks": 1,
+        "months": 0
+      },
+      "lemposes_learnt": 4
+    },
+    {
+      "interval": {
+        "weeks": 2,
+        "months": 0
+      },
+      "lemposes_learnt": 10
+    },
+    {
+      "interval": {
+        "weeks": 3,
+        "months": 0
+      },
+      "lemposes_learnt": 1
+    },
+    {
+      "interval": {
+        "weeks": 4,
+        "months": 0
+      },
+      "lemposes_learnt": 0
+    },
+    {
+      "interval": {
+        "weeks": 5,
+        "months": 0
+      },
+      "lemposes_learnt": 0
+    },
+    {
+      "interval": {
+        "weeks": 6,
+        "months": 0
+      },
+      "lemposes_learnt": 0
+    },
+    {
+      "interval": {
+        "weeks": 7,
+        "months": 0
+      },
+      "lemposes_learnt": 0
+    },
+    {
+      "interval": {
+        "weeks": 8,
+        "months": 0
+      },
+      "lemposes_learnt": 0
+    }
+  ],
+  "average_weekly_lemposes_learnt": 5.0,
+  "weeks_to_next_level": [
+    635
+  ],
+  "sessions": [
+    {
+      "session_start": "2021-10-11T09:43:28",
+      "response_count": 15,
+      "length_seconds": 0
+    },
+    {
+      "session_start": "2021-10-11T11:43:28",
+      "response_count": 2,
+      "length_seconds": 0
+    },
+    {
+      "session_start": "2021-10-14T17:04:12",
+      "response_count": 1,
+      "length_seconds": 0
+    },
+    {
+      "session_start": "2021-10-14T19:17:16",
+      "response_count": 2,
+      "length_seconds": 408
+    },
+    {
+      "session_start": "2021-10-15T00:56:27",
+      "response_count": 1,
+      "length_seconds": 0
+    },
+    {
+      "session_start": "2021-10-15T12:54:14",
+      "response_count": 5,
+      "length_seconds": 247
+    },
+    {
+      "session_start": "2021-10-15T14:19:34",
+      "response_count": 6,
+      "length_seconds": 4
+    },
+    {
+      "session_start": "2021-10-15T15:48:03",
+      "response_count": 6,
+      "length_seconds": 14
+    },
+    {
+      "session_start": "2021-10-17T20:37:01",
+      "response_count": 3,
+      "length_seconds": 415
+    },
+    {
+      "session_start": "2021-10-18T07:42:42",
+      "response_count": 1,
+      "length_seconds": 75
+    },
+    {
+      "session_start": "2021-10-19T11:13:59",
+      "response_count": 6,
+      "length_seconds": 573
+    },
+    {
+      "session_start": "2021-10-20T09:00:26",
+      "response_count": 53,
+      "length_seconds": 1648
+    },
+    {
+      "session_start": "2021-10-20T09:27:58",
+      "response_count": 23,
+      "length_seconds": 100
+    },
+    {
+      "session_start": "2021-10-20T09:43:11",
+      "response_count": 12,
+      "length_seconds": 453
+    },
+    {
+      "session_start": "2021-10-20T14:20:07",
+      "response_count": 1,
+      "length_seconds": 22
+    },
+    {
+      "session_start": "2021-10-20T14:55:56",
+      "response_count": 3,
+      "length_seconds": 984
+    },
+    {
+      "session_start": "2021-10-20T15:12:25",
+      "response_count": 10,
+      "length_seconds": 190
+    },
+    {
+      "session_start": "2021-10-20T15:38:09",
+      "response_count": 9,
+      "length_seconds": 39
+    },
+    {
+      "session_start": "2021-10-22T04:58:50",
+      "response_count": 29,
+      "length_seconds": 194
+    },
+    {
+      "session_start": "2021-10-22T12:52:24",
+      "response_count": 5,
+      "length_seconds": 189
+    },
+    {
+      "session_start": "2021-10-22T19:31:41",
+      "response_count": 10,
+      "length_seconds": 108
+    },
+    {
+      "session_start": "2021-10-22T19:55:04",
+      "response_count": 2,
+      "length_seconds": 787
+    },
+    {
+      "session_start": "2021-10-22T20:13:44",
+      "response_count": 8,
+      "length_seconds": 189
+    },
+    {
+      "session_start": "2021-10-22T21:14:47",
+      "response_count": 10,
+      "length_seconds": 176
+    },
+    {
+      "session_start": "2021-10-25T06:35:50",
+      "response_count": 1,
+      "length_seconds": 5
+    },
+    {
+      "session_start": "2021-10-25T06:58:11",
+      "response_count": 18,
+      "length_seconds": 161
+    },
+    {
+      "session_start": "2021-10-25T08:03:28",
+      "response_count": 1,
+      "length_seconds": 49
+    },
+    {
+      "session_start": "2021-10-25T08:26:22",
+      "response_count": 21,
+      "length_seconds": 1270
+    },
+    {
+      "session_start": "2021-10-25T09:00:28",
+      "response_count": 3,
+      "length_seconds": 21
+    },
+    {
+      "session_start": "2021-10-25T11:05:41",
+      "response_count": 2,
+      "length_seconds": 25
+    },
+    {
+      "session_start": "2021-10-25T14:07:19",
+      "response_count": 3,
+      "length_seconds": 31
+    },
+    {
+      "session_start": "2021-10-26T09:47:56",
+      "response_count": 12,
+      "length_seconds": 127
+    },
+    {
+      "session_start": "2021-10-26T10:27:16",
+      "response_count": 31,
+      "length_seconds": 300
+    },
+    {
+      "session_start": "2021-10-26T11:52:46",
+      "response_count": 11,
+      "length_seconds": 53
+    },
+    {
+      "session_start": "2021-10-26T13:12:22",
+      "response_count": 13,
+      "length_seconds": 205
+    },
+    {
+      "session_start": "2021-10-26T19:40:54",
+      "response_count": 17,
+      "length_seconds": 271
+    },
+    {
+      "session_start": "2021-10-27T11:21:15",
+      "response_count": 4,
+      "length_seconds": 236
+    },
+    {
+      "session_start": "2021-10-27T13:50:38",
+      "response_count": 2,
+      "length_seconds": 12
+    },
+    {
+      "session_start": "2021-10-27T16:08:17",
+      "response_count": 91,
+      "length_seconds": 623
+    },
+    {
+      "session_start": "2021-10-27T16:38:50",
+      "response_count": 3,
+      "length_seconds": 19
+    },
+    {
+      "session_start": "2021-10-27T16:57:36",
+      "response_count": 20,
+      "length_seconds": 1034
+    },
+    {
+      "session_start": "2021-10-27T17:27:59",
+      "response_count": 43,
+      "length_seconds": 896
+    },
+    {
+      "session_start": "2021-10-28T19:53:31",
+      "response_count": 14,
+      "length_seconds": 101
+    },
+    {
+      "session_start": "2021-10-28T22:11:44",
+      "response_count": 4,
+      "length_seconds": 24
+    },
+    {
+      "session_start": "2021-10-29T04:07:21",
+      "response_count": 25,
+      "length_seconds": 169
+    },
+    {
+      "session_start": "2021-10-29T14:53:45",
+      "response_count": 2,
+      "length_seconds": 15
+    },
+    {
+      "session_start": "2021-11-01T13:16:54",
+      "response_count": 24,
+      "length_seconds": 122
+    },
+    {
+      "session_start": "2021-11-01T14:45:04",
+      "response_count": 26,
+      "length_seconds": 544
+    }
+  ]
+}

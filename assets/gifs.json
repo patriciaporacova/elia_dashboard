@@ -1,0 +1,64 @@
+[
+    {
+        "correct": [
+            {
+                "name": "correct.gif"
+            },
+            {
+                "name": "micdrop_obama.gif"
+            },
+            {
+                "name": "thats_right_1.gif"
+            },
+            {
+                "name": "thats_right_2.gif"
+            },
+            {
+                "name": "thats_right_3.gif"
+            },
+            {
+                "name": "thats_right_4.gif"
+            },
+            {
+                "name": "thats_right_5.gif"
+            },
+            {
+                "name": "thats_right_6.gif"
+            },
+            {
+                "name": "thats_right_7.gif"
+            },
+            {
+                "name": "thats_right_8.gif"
+            },
+            {
+                "name": "thats_right_9.gif"
+            }
+        ],
+        "canthearyou": [
+            {
+                "name": "icanthereyou_1.gif"
+            },
+            {
+                "name": "icanthereyou_2.gif"
+            },
+            {
+                "name": "icanthereyou_3.gif"
+            },
+            {
+                "name": "icanthereyou_4.gif"
+            },
+            {
+                "name": "icanthereyou_5.gif"
+            }
+        ],
+        "trustyou": [
+            {
+                "name": "trustyou_1.gif"
+            },
+            {
+                "name": "trustyou_2.gif"
+            }
+        ]
+    }
+]
